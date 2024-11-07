@@ -1,8 +1,8 @@
-<h2 align="left">💌 hi! i'm ukrainian front-end enthusiast.</h2>
+<h2 align="left"> hi! i'm ukrainian front-end enthusiast.</h2>
 <h3><i><b>i am...</b></i></h3>
 <p>★ autistic + adhd </p>
 <p>★ transneutral aroace gay </p>
-<p>★ a big fan of html and css <s>and not such a big one of javascript</s>!</p>
+<p>★ a big fan of html and css and unfortunately an active user of <b>javascript</b>. </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
