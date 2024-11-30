@@ -1,8 +1,8 @@
-<h2 align="left"> hi! i'm ukrainian front-end enthusiast.</h2>
+<h2 align="left"> hi! i'm ukrainian queer web dev.</h2>
 <h3><i><b>i am...</b></i></h3>
-<p>★ autistic + adhd </p>
-<p>★ transneutral aroace gay </p>
-<p>★ a big fan of html and css and unfortunately an active user of <b>javascript</b>. </p>
+<p>★ autistic + have adhd </p>
+<p>★ transneutral aroace and gay </p>
+<p>★ unfortunately an avid javascript user </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -13,7 +13,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
